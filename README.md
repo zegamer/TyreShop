@@ -1,5 +1,5 @@
 # TyreShop
-Personal project for Dhaval's tyre shop.
+A personal project for a local  shop.
 
 Made by Dhavalraj Dodia and me.
 
@@ -10,8 +10,9 @@ Is menu driven and has the following functions:
 3. GST Calculation
 4. HSN Codes
 
+
 Details saved through individual files, not in any database.
 
-Need to add db connectivity and GUI module in further updates.
+Possibility: Need to add db connectivity and GUI module in further updates.
 
 Program not meant for any distribution.
